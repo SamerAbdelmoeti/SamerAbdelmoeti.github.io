@@ -14,4 +14,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello, I'm Samer. I'm interested in the intersection between **machine learning**, **control theory**, and **optimal decision-making**. Hence, my passion for cognitive science, quant trading, robotics, and vehicle autonomy.
+Hello, I'm Samer. I'm interested in the intersection between **machine learning**, **control theory**, and **optimal decision-making**. Hence, my passion for cognitive science, quant finance, robotics, and vehicle autonomy.
